@@ -1,0 +1,6 @@
+# Enable Banking private keys and saved sessions: together they read your accounts
+*.pem
+sessions.json
+.enablebanking/
+
+.DS_Store
